@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="centre>
+                <a href="https://github.com/Sharvareesh">
+                    <img src="https://avatars.githubusercontent.com/u/147671694?v=4">
+                    <br />
+                    <sub><b>Sharvareesh Upadhyay</b></sub>
+                    </a>
+            </td>
         </tr>
     </tbody>
 </table>
